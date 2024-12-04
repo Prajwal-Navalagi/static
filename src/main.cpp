@@ -5,7 +5,7 @@ void counter() {
     count++; // Increment the counter
 
     // Print the current count to the Serial Monitor
-    Serial.print("Count: ");
+    Serial.print("COUNT: ");
     Serial.println(count);
 }
 
